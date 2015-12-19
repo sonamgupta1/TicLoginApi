@@ -1,0 +1,34 @@
+{
+  "name": "Vyomo",
+  "version": "1.0.0",
+  "description": "Vyomo Customer App",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/clicklabs/vyomo-server/"
+  },
+  "author": "Parmodh",
+  "license": "ISC",
+  "dependencies": {
+    "MD5": "^1.2.1",
+    "async": "0.9.0",
+    "aws-sdk": "^2.1.17",
+    "body-parser": "v1.12.0",
+    "config": "^1.12.0",
+    "connect-multiparty": "^1.2.5",
+    "express": "^4.12.2",
+    "jade": "^1.9.2",
+    "math": "0.0.3",
+    "mysql": "^2.5.5",
+    "node-fs": "^0.1.7",
+    "nodemailer": "*",
+    "nodemailer-smtp-transport": "*",
+    "pm2": "^0.12.8",
+    "request": "*",
+    "twilio": "^2.0.0",
+    "underscore": "^1.8.3",
+    "log4js":"^0.6.26",
+    "moment":"^2.10.3",
+    "xmlhttprequest": "^1.7.0",
+    "datatable":"^0.0.6"
+  }
+}

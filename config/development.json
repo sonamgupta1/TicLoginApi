@@ -1,0 +1,12 @@
+{
+  "databaseSettings"   : {
+    "user"    : "root",
+    "password": "root",
+    "database": "abc",
+    "port": 3306,
+    "multipleStatements": true
+  },
+  "portNo": {
+    "port": 8000
+  }
+}
